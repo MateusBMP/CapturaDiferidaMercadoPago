@@ -1,0 +1,8 @@
+{
+    "name": "mateusbmp/capturadiferidamercadopago",
+    "description": "Testa a captura de um valor via Mercado Pago",
+    "require": {
+        "mercadopago/dx-php": "2.0.0",
+        "vlucas/phpdotenv": "^5.1"
+    }
+}
