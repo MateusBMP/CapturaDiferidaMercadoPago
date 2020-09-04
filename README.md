@@ -12,6 +12,8 @@ Agora crie o arquivo `.env` e insira seu Access Token do ambiente sandbox:
 $ cp .env.example .env
 ```
 
+> **Importante:** Insira seu access token entre aspas duplas (`""`). Exemplo: `ACCESS_TOKEN="APP_USR-4291..."`.
+
 Finalmente, execute o arquivo `captura-diferida.php`:
 
 ```sh
